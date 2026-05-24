@@ -1,4 +1,4 @@
-Live Demo - https://architecture-design-portfolio.vercel.app
+Live Demo - http://architecture-design-portfolio.vercel.app
 
 You are allowed to use it in your personal projects and commercial projects.
 
